@@ -4,7 +4,7 @@ The learning task is for a drone to take off, fly to and hover inside the target
 In the report, you can read about the method and results. The video below showcases the performance after training for 10,000 episodes.
 
 
-https://github.com/user-attachments/assets/f8b918f7-0abc-4150-9180-37ce083ce299
+https://github.com/user-attachments/assets/845eb6c1-0c40-4eb0-ade2-be7c50855fe2
 
 
 To run the training script:

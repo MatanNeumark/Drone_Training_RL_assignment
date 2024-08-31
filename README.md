@@ -3,8 +3,8 @@ This repository contains the code and results for the assignment of the course A
 The learning task is for a drone to take off, fly to and hover inside the target zone (red square)
 In the report, you can read about the method and results. The video below showcases the performance after training for 10,000 episodes.
 
-https://github.com/user-attachments/assets/2e79270b-f812-48ef-a0cf-9caf29f56a1c
 
+https://github.com/user-attachments/assets/f8b918f7-0abc-4150-9180-37ce083ce299
 
 
 To run the training script:

@@ -6,9 +6,11 @@ a. You need two files: 'REINFORCE_learning_Quad_V2.py' which performs the traini
 
 b. You can change the hyperparameters alpha (learning rate) and gamma (discount factor) and the desired number of episodes.
 
-c. You can also specify render mode as 'human' if you want to see an animation of the drone in the environment.
+c. You can also specify the drone's mass, diagonal motor distance and even earth's gravity! Render mode can be set to 'human' if you want to see an animation of the drone in the environment.
 
 ![image](https://github.com/user-attachments/assets/4cae1625-301a-4549-a820-b8fbacd86cb6)
+![image](https://github.com/user-attachments/assets/9701ea76-3089-455c-8c4d-4a08a915c985)
+
 
 'REINFORCE_learning_Quad_V2.py' includes some plots to visualize training results and performance.
 

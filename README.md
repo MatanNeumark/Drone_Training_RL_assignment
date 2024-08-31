@@ -1,4 +1,4 @@
-This repository contains the code for the assignment of the course AE4350 Bi-inspired Intelligence Learning for Aerospace Applications.
+This repository contains the code for the assignment of the course AE4350 Bio-inspired Intelligence Learning for Aerospace Applications.
 
 To run the training script:
 a. You need two files: 'REINFORCE_learning_Quad_V2.py' which performs the training, and 'QuadModel.py' which is the environment.

@@ -1,6 +1,6 @@
 This repository contains the code and results for the assignment of the course AE4350 Bio-inspired Intelligence Learning for Aerospace Applications.
 
-The learning task is for a drone to take off, fly to and hover inside the target zone (red square)
+The learning task is for a drone to take off, fly to, and hover inside the target zone (red square).
 In the report, you can read about the method and results. The video below showcases the performance after training for 10,000 episodes.
 
 
@@ -21,8 +21,8 @@ c. You can also specify the drone's mass, diagonal motor distance and even earth
 
 'REINFORCE_learning_Quad_V2.py' includes some plots to visualize training results and performance.
 
-For post processing and data analysis, you can use the script 'Quad_learning_results_analysis.py.
-It has loops to run batches to reduce results uncertainty and plots to see the effect of hyperparameter variation.
+For post-processing and data analysis, you can use the script 'Quad_learning_results_analysis.py.
+It has loops to run batches meant to reduce results uncertainty and plots to visualise the effect of hyperparameter variation.
 
 The image below shows the overall structure of the code and how information flows between classes.
 
